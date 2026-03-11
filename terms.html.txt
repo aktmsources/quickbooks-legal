@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Terms of Service</title>
+<style>
+body { font-family: Arial, sans-serif; margin: 40px; line-height: 1.6; }
+h1 { color: #2c3e50; }
+ul { margin-left: 20px; }
+</style>
+</head>
+<body>
+<h1>Terms of Service</h1>
+<p>These Terms of Service govern your use of our application.</p>
+<ul>
+<li>You are responsible for providing accurate information when connecting your QuickBooks Online account.</li>
+<li>We provide the application "as-is" without warranties for accuracy of financial calculations.</li>
+<li>The company is not liable for any losses arising from the use of this software.</li>
+<li>You may not attempt to access or use the application for unauthorized purposes.</li>
+<li>The company reserves the right to suspend or terminate access for violation of these terms.</li>
+</ul>
+<p>By using our application and connecting your QuickBooks Online account, you agree to these terms.</p>
+</body>
+</html>

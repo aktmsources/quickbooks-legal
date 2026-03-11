@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>End User License Agreement (EULA)</title>
+<style>
+body { font-family: Arial, sans-serif; margin: 40px; line-height: 1.6; }
+h1 { color: #2c3e50; }
+ul { margin-left: 20px; }
+</style>
+</head>
+<body>
+<h1>End User License Agreement (EULA)</h1>
+<p>This End User License Agreement ("Agreement") governs the use of our application. By using this application, you agree to the following terms:</p>
+<ul>
+<li>The software is provided for business accounting and QuickBooks Online integration purposes only.</li>
+<li>You grant permission to access your QuickBooks Online data through authorized APIs.</li>
+<li>You may not copy, modify, or distribute the software without our permission.</li>
+<li>The company is not responsible for accounting or financial decisions based on system data.</li>
+<li>Your use of the application must comply with all applicable laws and regulations.</li>
+</ul>
+<p>By connecting your QuickBooks account, you accept this agreement.</p>
+</body>
+</html>
